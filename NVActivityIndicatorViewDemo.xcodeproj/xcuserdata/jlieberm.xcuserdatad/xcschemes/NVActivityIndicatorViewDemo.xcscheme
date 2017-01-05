@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "90A8792E1BA554A0001C8989"
-               BuildableName = "NVActivityIndicatorView.framework"
-               BlueprintName = "NVActivityIndicatorView"
-               ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "90A879381BA554A0001C8989"
-               BuildableName = "NVActivityIndicatorViewTests.xctest"
-               BlueprintName = "NVActivityIndicatorViewTests"
+               BlueprintIdentifier = "239CAB1F1B5EBB2E0051DC06"
+               BuildableName = "NVActivityIndicatorViewDemo.app"
+               BlueprintName = "NVActivityIndicatorViewDemo"
                ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "90A879381BA554A0001C8989"
-               BuildableName = "NVActivityIndicatorViewTests.xctest"
-               BlueprintName = "NVActivityIndicatorViewTests"
+               BlueprintIdentifier = "239CAB341B5EBB2E0051DC06"
+               BuildableName = "NVActivityIndicatorViewDemoTests.xctest"
+               BlueprintName = "NVActivityIndicatorViewDemoTests"
                ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -56,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90A8792E1BA554A0001C8989"
-            BuildableName = "NVActivityIndicatorView.framework"
-            BlueprintName = "NVActivityIndicatorView"
+            BlueprintIdentifier = "239CAB1F1B5EBB2E0051DC06"
+            BuildableName = "NVActivityIndicatorViewDemo.app"
+            BlueprintName = "NVActivityIndicatorViewDemo"
             ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,15 +61,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90A8792E1BA554A0001C8989"
-            BuildableName = "NVActivityIndicatorView.framework"
-            BlueprintName = "NVActivityIndicatorView"
+            BlueprintIdentifier = "239CAB1F1B5EBB2E0051DC06"
+            BuildableName = "NVActivityIndicatorViewDemo.app"
+            BlueprintName = "NVActivityIndicatorViewDemo"
             ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -93,15 +80,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90A8792E1BA554A0001C8989"
-            BuildableName = "NVActivityIndicatorView.framework"
-            BlueprintName = "NVActivityIndicatorView"
+            BlueprintIdentifier = "239CAB1F1B5EBB2E0051DC06"
+            BuildableName = "NVActivityIndicatorViewDemo.app"
+            BlueprintName = "NVActivityIndicatorViewDemo"
             ReferencedContainer = "container:NVActivityIndicatorViewDemo.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
