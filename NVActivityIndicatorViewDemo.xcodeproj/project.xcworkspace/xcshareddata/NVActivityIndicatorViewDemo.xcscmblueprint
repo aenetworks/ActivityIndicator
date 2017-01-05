@@ -9,7 +9,7 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BAFBD9D6-AB55-4DB5-A33A-94007CD0F4F0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "B92D708343E9E08D72E436199DF321CD7A19BB99" : "ActivityIndicators\/",
+    "B92D708343E9E08D72E436199DF321CD7A19BB99" : "ActivityIndicator\/",
     "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F" : "NVActivityIndicatorView"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "NVActivityIndicatorViewDemo",
