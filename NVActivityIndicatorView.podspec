@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '8.0'
 
-  s.source       = { :git => "hhttps://github.com/aenetworks/ActivityIndicator.git", :tag => "v3.0" }
+  s.source       = { :git => "hhttps://github.com/aenetworks/ActivityIndicator.git", :tag => "v3.0-ae" }
   s.source_files  = "NVActivityIndicatorView/**/*.swift"
 
   s.frameworks = "UIKit", "QuartzCore"
