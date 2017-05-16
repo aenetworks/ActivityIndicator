@@ -54,14 +54,14 @@ class NVActivityIndicatorAnimationBallTrianglePath: NVActivityIndicatorAnimation
     }
     
     @discardableResult func changeAnimation(_ animation: CAKeyframeAnimation, values rawValues: [String], deltaX: CGFloat, deltaY: CGFloat) -> CAAnimation {
-        let values = NSMutableArray(capacity: 5)
+        var values = [Any]()
         
         for rawValue in rawValues {
             let point = CGPointFromString(translateString(rawValue, deltaX: deltaX, deltaY: deltaY))
             
-            values.add(NSValue(caTransform3D: CATransform3DMakeTranslation(point.x, point.y, 0)))
+            values.append(NSValue(caTransform3D: CATransform3DMakeTranslation(point.x, point.y, 0)))
         }
-        animation.values = values as [AnyObject]
+        animation.values = values
         
         return animation
     }
